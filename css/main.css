@@ -1,0 +1,22 @@
+.q7-9 { fill:#FB0102 }
+.q6-9 { fill:#32cd32 }
+.q5-9 { fill:#FB0102 }
+.q4-9 { fill:#F85A01 }
+.q3-9 { fill:#FFAA0E }
+.q2-9 { fill:#DDC531 }
+.q1-9 { fill:#32cd32 }
+.q0-9 { fill:#32cd32 }
+.gray { fill:gray}
+
+
+.map {
+  width: 200px;
+  
+}
+
+
+body{
+  background-color: aliceblue;
+  font-family: 'Oswald', serif;
+  font-size: 13px;
+}
